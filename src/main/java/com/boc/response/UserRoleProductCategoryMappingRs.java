@@ -3,7 +3,7 @@
 package com.boc.response;
 
 /*
-Created By SaiMadan on Nov 15, 2016
+Created By Gihan on Nov 15, 2016
 */
 public class UserRoleProductCategoryMappingRs 
 {

@@ -3,7 +3,7 @@
 package com.boc.response;
 
 /*
-Created By SaiMadan on Dec 7, 2016
+Created By Gihan on Dec 7, 2016
 */
 public class AreaBaseRs 
 {

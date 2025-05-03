@@ -7,7 +7,7 @@ import java.util.Set;
 import com.boc.model.BranchBase;
 
 /*
-Created By SaiMadan on Nov 17, 2016
+Created By Gihan on Nov 17, 2016
 */
 public class UserBaseRs 
 {

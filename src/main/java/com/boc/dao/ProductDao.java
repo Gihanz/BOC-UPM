@@ -42,7 +42,7 @@ import com.boc.response.UserRoleProductCategoryMappingRs;
 
 
 /*
-Created By SaiMadan on Nov 10, 2016
+Created By Gihan on Nov 10, 2016
 */
 @Component
 public class ProductDao {

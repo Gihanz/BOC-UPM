@@ -33,7 +33,7 @@ import javax.naming.ldap.InitialLdapContext;
 
 
 /*
-Created By SaiMadan on Jan 9, 2017
+Created By Gihan on Jan 9, 2017
 */
 public class ldapLogin 
 {

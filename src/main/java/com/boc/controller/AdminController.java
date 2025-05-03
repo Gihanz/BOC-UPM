@@ -50,7 +50,7 @@ import com.boc.service.ProductService;
 
 
 /*
-Created By SaiMadan on Dec 6, 2016
+Created By Gihan on Dec 6, 2016
 */
 @Controller
 public class AdminController {

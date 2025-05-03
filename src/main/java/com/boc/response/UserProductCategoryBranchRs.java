@@ -5,7 +5,7 @@ package com.boc.response;
 import java.util.Set;
 
 /*
-Created By SaiMadan on Jan 10, 2017
+Created By Gihan on Jan 10, 2017
 */
 public class UserProductCategoryBranchRs 
 {

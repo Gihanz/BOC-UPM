@@ -7,7 +7,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 import com.boc.service.ProductService;
 
 /*
-Created By SaiMadan on Nov 10, 2016
+Created By Gihan on Nov 10, 2016
 */
 public class SpringOrmMain 
 {

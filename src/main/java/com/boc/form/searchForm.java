@@ -3,7 +3,7 @@
 package com.boc.form;
 
 /*
-Created By SaiMadan on Dec 6, 2016
+Created By Gihan on Dec 6, 2016
 */
 public class searchForm {
 	public String ntId;
